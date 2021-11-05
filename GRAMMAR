@@ -1,0 +1,30 @@
+
+
+@hello(name):
+	print("hello %s", name):
+
+
+hello("world")
+
+
+sum = 4 + 5:
+print("sum : %d", sum):
+
+minus = 10 - 3
+print("minus: %d", minus):
+
+times = 4 * 5:
+print("times : %d", times):
+
+div = 10 / 3:
+print("div: %f", div):
+
+complex = (3*3) / 3 - (5 / 5) + 2:
+print("complex: %f", complex):
+
+
+age = 18:
+name = "Gift":
+surname = "Phoxett":
+
+print("My name is %s %s. I am %d years old", age, name, surname)
